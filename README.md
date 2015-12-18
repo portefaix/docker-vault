@@ -23,7 +23,7 @@ Volume exported is : `/etc/vault.hcl`.
 
 ## Supported tags
 
-- `0.9.4` [![](https://badge.imagelayers.io/portefaix/vault:0.9.4.svg)](https://imagelayers.io/?images=portefaix/vault:0.9.4 'imagelayers.io')
+- `0.4.0` [![](https://badge.imagelayers.io/portefaix/vault:0.4.0.svg)](https://imagelayers.io/?images=portefaix/vault:0.4.0 'imagelayers.io')
 
 ## License
 
