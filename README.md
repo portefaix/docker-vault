@@ -15,7 +15,7 @@ This image is based on the official Alpine Linux.
 
 Ports exported is : `8200`.
 
-Volume exported : `/etc/vault.hcl`.
+Volume exported is : `/etc/vault.hcl`.
 
 ## Usage
 
